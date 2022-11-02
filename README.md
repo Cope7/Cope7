@@ -38,7 +38,7 @@ Enlace para más información sobre el futuro de la energía solar (https://blog
 
 # ¿COMO PODEMOS AYUDAR A NUESTRO PLANETA?
 - [] Ahorrar agua.
-- [] Reducir el uso del plástico.
+- [x] Reducir el uso del plástico.
 - [x] Movilizate en bici o transporte público.
 
 ANIMO 💪🌍
