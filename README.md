@@ -25,7 +25,18 @@ El origen en España de la energía solar (fotovoltaica) data de 1984, cuando la
 
 Enlace para más información sobre el futuro de la energía solar (https://blog.gruponovelec.com/energias-renovables/energia-fotovoltaica-el-plan-de-la-ue-para-el-ano-2030/)
 
-
+# CODIGO
+```java
+private static void septimoejercicio()  {
+		int minutos,horas, minutos2;
+		minutos=pedirdatosint("¿ Cuantos minutos quieres convertir en horas? ");
+		horas= minutos/60;
+		minutos2= minutos%60;
+		System.out.println("Son "+horas+" horas"+" y "+minutos2+" minutos"+".");
+    }
+    }
+ ```
+    
 
 ![Imagen de paneles solares](https://www.bbva.com/wp-content/uploads/2020/08/BBVA-EnergiaSolar-1024x629.jpg)
 
