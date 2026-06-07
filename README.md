@@ -1,59 +1,55 @@
-# Indice:
+# Hola, soy Sergio Cope Cazorla 👋
 
-1. [Energía solar](#id1)
-2. [Tipos de energía solar](#id2)
-3. [Productos](#id3)
-4. [Energía renovable](#id4)
+### Desarrollador Junior · Java · SQL · Desarrollo de aplicaciones multiplataforma
 
-# 1.ENERGÍA SOLAR <a name="id1"></a>
-### Definición
-La energía solar es una energía renovable, es decir, que utiliza los recursos inagotables de la naturaleza, en este caso el sol. Dicha energía se capta gracias a la radiación electromagnética que emite el sol. Además, es origen de las reacciones atómicas que ocurren constantemente en su interior generando calor y energía. 
+Recién titulado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y buscando mi primera oportunidad como desarrollador. Mi base está en **Java y SQL**, y disfruto montando proyectos de principio a fin: de la interfaz a los datos. Antes de la programación trabajé varios años en logística y atención al cliente, así que traigo de serie responsabilidad, constancia y trabajo en equipo. Ahora con muchas ganas de aprender y aportar en un equipo de desarrollo.
 
-### Evolución
-El origen en España de la energía solar (fotovoltaica) data de 1984, cuando la compañía Iberdrola instaló por primera vez la primera central fotovoltaica en nuestro país. Durante 10 años fue la única conexión con la que contó España ya que hasta 1993 no volvería aparecer la energía solar en España. Durante los años 90 las instalaciones o proyectos que se realizaron satisfacían más bien a una función demostrativa. A finales de 1995, la potencia total sumaba unos 1,6 MW, sin embargo, esta tecnología permanecía en el ámbito de la investigación.
+---
 
-# 2. ***TIPOS DE ENERGÍA SOLAR.*** <a name="id2"></a>
-- **Energía solar fotovoltaica**
-- *Energía solar térmica*
-- ~~Energía eólica~~
+## 🚀 Proyecto destacado
 
-# 3. PRODUCTOS. <a name="id3"></a>
-1. Paneles solares.
-2. Inversores de autoconsumo.
-3. Baterías de litio.
-4. Cargadores de coche.
+### [Sistema de Gestión de Mantenimiento y Activos](https://github.com/Cope7/gestion-mantenimiento)
 
-Enlace para más información sobre el futuro de la energía solar (https://blog.gruponovelec.com/energias-renovables/energia-fotovoltaica-el-plan-de-la-ue-para-el-ano-2030/)
+Aplicación **multiplataforma** (Android, web y escritorio) para la gestión integral de incidencias y mantenimiento de activos corporativos. Proyecto final de DAM, funcional y probado en dispositivo real.
 
-# CODIGO
-```java
-private static void septimoejercicio()  {
-		int minutos,horas, minutos2;
-		minutos=pedirdatosint("¿ Cuantos minutos quieres convertir en horas? ");
-		horas= minutos/60;
-		minutos2= minutos%60;
-		System.out.println("Son "+horas+" horas"+" y "+minutos2+" minutos"+".");
-    }
-    }
- ```
-    
+- 📷 **Identificación por QR**: cualquier empleado reporta una avería escaneando el código del equipo.
+- 👥 **Tres roles de usuario** (empleado, técnico y administrador) con interfaz y permisos adaptados a cada uno.
+- 🔄 **Ciclo completo de incidencias** (pendiente → en proceso → resuelta) con historial por activo.
+- ⚡ **Datos en tiempo real** con Cloud Firestore.
 
-![Imagen de paneles solares](https://www.bbva.com/wp-content/uploads/2020/08/BBVA-EnergiaSolar-1024x629.jpg)
+**Stack:** Flutter · Dart · Firebase (Authentication, Firestore, Storage)
 
-# 4. ENERGÍA RENOVABLE. <a name="id4"></a>
+👉 **[Ver el proyecto](https://github.com/Cope7/gestion-mantenimiento)**
 
-| Energía renovable | Descripción |
-| --- | --- |
-| Ventajas | Respetuosa con el medio ambiente |
-| Desventajas | Su adquisición es irregular |
+---
 
-# ¿COMO PODEMOS AYUDAR A NUESTRO PLANETA?
-- [] Ahorrar agua.
-- [x] Reducir el uso del plástico.
-- [x] Movilizate en bici o transporte público.
+## 🛠️ Tecnologías
 
-ANIMO 💪🌍
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
+
+## 🌍 Idiomas
+
+- 🇪🇸 **Español** — nativo
+- 🇫🇷 **Francés** — B1 (DELF), reforzando hacia B2
+- 🇬🇧 **Inglés** — lectura y comprensión B1 · conversación A2
+
+---
+
+## 📫 Contacto
+
+- 📍 Madrid, España
+- ✉️ sccazorla@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
 
 
 
