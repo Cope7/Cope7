@@ -48,7 +48,6 @@ Aplicación **multiplataforma** (Android, web y escritorio) para la gestión int
 ## 📫 Contacto
 
 - 📍 Madrid, España
-- ✉️ sccazorla@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
 
 
